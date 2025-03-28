@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Come sono cambiate le emissioni di gas serra derivanti dall'uso di energia negli edifici nell'UE?",
+  "subtitle": "Variazione percentuale delle emissioni da combustibili fossili utilizzati negli edifici tra il 2005 e il 2022. Le emissioni totali di gas serra dell'UE dagli edifici sono diminuite del 31% nel periodo 2005-2022.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "La strategia di decarbonizzazione dell'UE, che si riflette in diverse normative, promuove simultaneamente l'elettrificazione degli utenti finali nel settore residenziale, la decarbonizzazione dei settori dell'elettricità e del riscaldamento/raffreddamento e il miglioramento dell'efficienza energetica negli edifici.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Agenzia europea dell'ambiente",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "prodotto da fonti rinnovabili",
   "tooltipExtraInfoLabel": "clicca qui"
 }
