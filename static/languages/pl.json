@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jak zmieniła się emisja gazów cieplarnianych spowodowana zużyciem energii w budynkach w UE?",
+  "subtitle": "Zmiana procentowa emisji z paliw kopalnych wykorzystywanych w budynkach w latach 2005–2022. Całkowita emisja gazów cieplarnianych w UE z budynków spadła o 31% w okresie 2005–2022.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Strategia UE na rzecz dekarbonizacji, która znajduje odzwierciedlenie w różnych przepisach, promuje jednoczesną elektryfikację odbiorców końcowych w sektorze mieszkaniowym, dekarbonizację sektorów elektroenergetycznego i grzewczego/chłodniczego oraz poprawę efektywności energetycznej budynków.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
+  "textSource": "Europejska Agencja Środowiska",
   "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "wyprodukowano ze źródła odnawialnego",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
