@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe zijn de broeikasgasemissies als gevolg van energieverbruik in gebouwen in de EU veranderd?",
+  "subtitle": "Procentuele verandering in emissies van fossiele brandstoffen die in gebouwen worden gebruikt tussen 2005 en 2022. De totale EU-broeikasgasemissies van gebouwen daalden met 31% in de periode 2005-2022.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De EU-strategie voor koolstofreductie, die in verschillende wetgevingen tot uiting komt, bevordert gelijktijdige elektrificatie van eindgebruikers in de residentiële sector, koolstofreductie van de elektriciteits- en verwarmings-/koelingssector en verbeteringen van de energie-efficiëntie van gebouwen.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Europees Milieuagentschap",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "geproduceerd uit hernieuwbare bron",
   "tooltipExtraInfoLabel": "Klik hier"
 }
