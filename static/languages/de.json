@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie haben sich die Treibhausgasemissionen aus dem Energieverbrauch von Gebäuden in der EU verändert?",
+  "subtitle": "Prozentuale Veränderung der Emissionen aus fossilen Brennstoffen, die in Gebäuden zwischen 2005 und 2022 verwendet werden. Die gesamten Treibhausgasemissionen aus Gebäuden in der EU sind im Zeitraum 2005–2022 um 31 % gesunken.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Dekarbonisierungsstrategie der EU, die sich in verschiedenen Rechtsvorschriften widerspiegelt, fördert die gleichzeitige Elektrifizierung der Endverbraucher im Wohnsektor, die Dekarbonisierung der Strom- und Heiz-/Kühlsektoren sowie die Verbesserung der Energieeffizienz in Gebäuden.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Europäische Umweltagentur",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "aus erneuerbaren Quellen hergestellt",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
