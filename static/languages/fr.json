@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Comment les émissions de gaz à effet de serre liées à la consommation d’énergie dans les bâtiments ont-elles évolué dans l’UE ?",
+  "subtitle": "Pourcentage de variation des émissions provenant des combustibles fossiles utilisés dans les bâtiments entre 2005 et 2022. Les émissions totales de GES de l’UE provenant des bâtiments ont diminué de 31 % au cours de la période 2005-2022.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "La stratégie de décarbonation de l’UE, qui se reflète dans différentes législations, favorise l’électrification simultanée des utilisateurs finaux dans le secteur résidentiel, la décarbonisation des secteurs de l’électricité et du chauffage/refroidissement, et l’amélioration de l’efficacité énergétique des bâtiments.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Agence européenne pour l'environnement",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "produit à partir de sources renouvelables",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
