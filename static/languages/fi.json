@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
+  "title": "Miten rakennusten energiankäytöstä aiheutuvat kasvihuonekaasupäästöt muuttuivat EU:ssa?",
+  "subtitle": "Rakennuksissa käytettyjen fossiilisten polttoaineiden päästöjen prosentuaalinen muutos vuosina 2005–2022. EU:n kokonaiskasvihuonekaasupäästöt rakennuksista laskivat 31 % vuosina 2005-2022.",
   "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "textNote": "Eri lainsäädäntöön heijastuva EU:n hiilidioksidipäästöjen vähentämisstrategia edistää samanaikaista loppukäyttäjien sähköistämistä asuinsektorilla, sähkö- ja lämmitys-/jäähdytyssektorin hiilestä poistamista sekä rakennusten energiatehokkuuden parantamista.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopan ympäristökeskus",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
   "legend1": "Tietoja ei ole saatavilla",
+  "customUnitLabel": "valmistettu uusiutuvista lähteistä",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
