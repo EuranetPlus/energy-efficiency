@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cum s-au schimbat emisiile de gaze cu efect de seră din utilizarea energiei în clădiri în întreaga UE?",
+  "subtitle": "Modificarea procentuală a emisiilor provenite de la combustibilii fosili utilizați în clădiri între 2005 și 2022. Emisiile totale de GES din UE provenite de la clădiri au scăzut cu 31% în perioada 2005-2022.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Strategia UE de decarbonizare, care se reflectă în diferite legislații, promovează electrificarea simultană a utilizatorilor finali în sectorul rezidențial, decarbonizarea sectoarelor de electricitate și încălzire/răcire și îmbunătățirea eficienței energetice a clădirilor.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Agenția Europeană de Mediu",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
   "legend1": "Nu există date disponibile",
+  "customUnitLabel": "produs din surse regenerabile",
   "tooltipExtraInfoLabel": "Click aici"
 }
