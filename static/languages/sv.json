@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur förändrades växthusgasutsläppen från energianvändning i byggnader inom EU?",
+  "subtitle": "Procentuell förändring av utsläppen från fossila bränslen som används i byggnader mellan 2005 och 2022. EU:s totala växthusgasutsläpp från byggnader minskade med 31 % under perioden 2005–2022.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "EU:s strategi för koldioxidutsläpp, som återspeglas i olika lagstiftningar, främjar samtidig elektrifiering av slutanvändare i bostadssektorn, avkarbonisering av el- och värme-/kyla-sektorerna och förbättringar av energieffektiviteten i byggnader.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
+  "textSource": "Europeiska miljöbyrån",
   "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "produceras från förnybara källor",
   "tooltipExtraInfoLabel": "Klicka här"
 }
