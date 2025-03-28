@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Conas a d’athraigh astuithe gáis cheaptha teasa ó úsáid fuinnimh i bhfoirgnimh ar fud an AE?",
+  "subtitle": "Céatadán an athraithe ar astuithe ó bhreoslaí iontaise a úsáideadh i bhfoirgnimh idir 2005 agus 2022. Tháinig laghdú 31% ar astaíochtaí iomlána GHG an AE ó fhoirgnimh thar an tréimhse 2005-2022.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Cuireann straitéis dícharbóinithe an AE, a léirítear i reachtaíochtaí éagsúla, chun cinn leictriú comhuaineach úsáideoirí deiridh san earnáil chónaithe, dícharbónú na n-earnálacha leictreachais agus téimh/fuaraithe, agus feabhsuithe ar éifeachtúlacht fuinnimh i bhfoirgnimh.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
+  "textSource": "An Ghníomhaireacht Eorpach Chomhshaoil",
   "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "a tháirgtear ó fhoinse in-athnuaite",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
