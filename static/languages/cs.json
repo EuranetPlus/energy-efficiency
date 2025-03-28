@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jak se v celé EU změnily emise skleníkových plynů ze spotřeby energie v budovách?",
+  "subtitle": "Procentuální změna emisí z fosilních paliv používaných v budovách v letech 2005 až 2022. Celkové emise skleníkových plynů z budov v EU se v období 2005–2022 snížily o 31 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Strategie EU pro dekarbonizaci, která se odráží v různých právních předpisech, podporuje současnou elektrifikaci koncových uživatelů v rezidenčním sektoru, dekarbonizaci odvětví elektřiny a vytápění/chlazení a zlepšení energetické účinnosti v budovách.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Evropská agentura pro životní prostředí",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
   "legend1": "Nejsou k dispozici žádné údaje",
+  "customUnitLabel": "vyrobené z obnovitelných zdrojů",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
