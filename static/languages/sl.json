@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kako so se emisije toplogrednih plinov zaradi porabe energije v stavbah spremenile po EU?",
+  "subtitle": "Odstotek spremembe emisij iz fosilnih goriv, uporabljenih v stavbah med letoma 2005 in 2022. Skupne emisije toplogrednih plinov v EU iz stavb so se v obdobju 2005–2022 zmanjšale za 31 %.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Strategija EU za razogljičenje, ki se odraža v različnih zakonodajah, spodbuja hkratno elektrifikacijo končnih uporabnikov v stanovanjskem sektorju, razogljičenje sektorjev električne energije in ogrevanja/hlajenja ter izboljšave energetske učinkovitosti v stavbah.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
+  "textSource": "Evropska agencija za okolje",
+  "linkDataAccessDescription": "Dostopajte do podatkov",
   "legend1": "Ni podatkov",
+  "customUnitLabel": "proizvedeno iz obnovljivega vira",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
