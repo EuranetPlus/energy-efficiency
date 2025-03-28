@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kaip visoje ES pasikeitė šiltnamio efektą sukeliančių dujų išmetimas dėl energijos vartojimo pastatuose?",
+  "subtitle": "Pastatuose naudojamo iškastinio kuro emisijų procentinis pokytis 2005–2022 m. Bendras ES šiltnamio efektą sukeliančių dujų išmetimas iš pastatų sumažėjo 31 % 2005–2022 m.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "ES dekarbonizavimo strategija, kuri atsispindi skirtinguose teisės aktuose, skatina tuo pačiu metu elektrifikuoti galutinius vartotojus gyvenamųjų namų sektoriuje, dekarbonizuoti elektros ir šildymo/vėsinimo sektorius bei gerinti energijos vartojimo efektyvumą pastatuose.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
+  "textSource": "Europos aplinkos agentūra",
   "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
   "legend1": "Nėra duomenų",
+  "customUnitLabel": "pagamintas iš atsinaujinančių šaltinių",
   "tooltipExtraInfoLabel": "Spauskite čia"
 }
